@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smu-homework-19/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/smu-homework-19/static/js/main.2d26e94a.chunk.js",
+    "main.js.map": "/smu-homework-19/static/js/main.2d26e94a.chunk.js.map",
+    "runtime-main.js": "/smu-homework-19/static/js/runtime-main.5175d202.js",
+    "runtime-main.js.map": "/smu-homework-19/static/js/runtime-main.5175d202.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/smu-homework-19/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a81cd990.chunk.js": "/smu-homework-19/static/js/2.a81cd990.chunk.js",
+    "static/js/2.a81cd990.chunk.js.map": "/smu-homework-19/static/js/2.a81cd990.chunk.js.map",
+    "index.html": "/smu-homework-19/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/smu-homework-19/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/smu-homework-19/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a81cd990.chunk.js.LICENSE.txt": "/smu-homework-19/static/js/2.a81cd990.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5175d202.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a81cd990.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2d26e94a.chunk.js"
+  ]
+}
